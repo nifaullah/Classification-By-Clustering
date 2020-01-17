@@ -14,3 +14,5 @@ Major Findings:
   1. Employees with homes closer to the office tend to be more absent
   2. Employees with homes closer to the office also mostly tend to be absent for smaller durations like 2-4 hours
   3. Hypothesis of Decision Tree to be the best suitable classifier from the other different classifiers learned in the class based on cluster anlysis turns out to be true.
+  
+  Citation/Acknowledgement: Th analysis is done as a part of requirement of CS 6052 Intelligent Analysis course instructed by Dr. Gowtham Atluri at the University of Cincinnati.
