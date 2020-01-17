@@ -13,4 +13,4 @@ Approach: First convert the dataset into a more representative smaller dataset w
 Major Findings: 
   1. Employees with homes closer to the office tend to be more absent
   2. Employees with homes closer to the office also mostly tend to be absent for smaller durations like 2-4 hours
-  3. Hypothesis of Decision Tree to be the best suitable classifier from the other differnt classifiers learned in the class is true.
+  3. Hypothesis of Decision Tree to be the best suitable classifier from the other different classifiers learned in the class based on cluster anlysis turns out to be true.
