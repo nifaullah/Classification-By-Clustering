@@ -3,6 +3,8 @@ Academic Project - Hypothesize and Verify the best classifier via clustering
 
 Data : Absenteeism at work dataset pulblicly provided by the UC Irvine's Machine Learning Dataset repository- https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work . The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil. In total there're 740 instances & 21 attributes.
 
+Language: Python 3
+
 Goal: 
   1. Do extensive EDA to find out what are the major factors influencing Absenteeism at Work
   2. Hypothesize the best classifier by clustering data using different clustering algorithms
